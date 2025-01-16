@@ -35,6 +35,6 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/chathuranga-prasad-014857308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/chathuranga.prasad.3979?mibextid=ZbWKwL" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/prasa_c?igsh=c2E0ZnZkcTluMjhn" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prasa-c&show_icons=true&locale=en" alt="prasa-c" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasa-c&" alt="prasa-c" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasa-c&show_icons=true&locale=en&layout=compact" alt="prasa-c" /></p>
