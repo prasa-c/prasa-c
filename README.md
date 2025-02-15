@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=30&center=false&lines=Web+Developer...;Mobile+Developer...;UI/UI+Designer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Amstelvar+Daughter&color=25ff4b&size=30&center=true&lines=Web+Developer...;Mobile+App+Developer...;UI/UI+Designer...;Tach+Enthusiast"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasa-c&label=Profile%20views&color=0e75b6&style=flat" alt="prasa-c" /> </p>
 <p></p>
