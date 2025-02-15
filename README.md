@@ -1,6 +1,7 @@
 <h1>Web Developer | Mobile Developer | UI/UX Designer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasa-c&label=Profile%20views&color=0e75b6&style=flat" alt="prasa-c" /> </p>
 <p></p>
+<img src="https://github.com/prasa_c/prasa_c/blob/main/cover.gif" width="100%" height="80%" />
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
