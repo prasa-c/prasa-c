@@ -1,4 +1,4 @@
-<h1>Web Developer | Mobile Developer | UI/UX Designer</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=20&center=false&lines=Web+Developer; Mobile+Developer; UI/+UX+Designer; "/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasa-c&label=Profile%20views&color=0e75b6&style=flat" alt="prasa-c" /> </p>
 <p></p>
 <img src="https://github.com/prasa-c/prasa-c/blob/main/cover.gif" width="100%" height="80%" />
